@@ -1,0 +1,1 @@
+var json_Bridge_12 = {"type":"FeatureCollection","name":"Bridge_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"bridge_nam":"Kannikulam Railway Cross Road","Ward":"4","X_Cord":76.15897,"Y_Cord":10.56697},"geometry":{"type":"Point","coordinates":[76.158969975000034,10.566967170000053]}}]}
